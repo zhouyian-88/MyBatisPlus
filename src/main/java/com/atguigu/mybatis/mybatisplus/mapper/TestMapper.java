@@ -1,6 +1,6 @@
-package com.atguigu.mybatisplus.mapper;
+package com.atguigu.mybatis.mybatisplus.mapper;
 
-import com.atguigu.mybatisplus.pojo.User;
+import com.atguigu.mybatis.mybatisplus.pojo.User;
 
 import java.util.List;
 
